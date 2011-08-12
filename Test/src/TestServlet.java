@@ -8,7 +8,7 @@ public class TestServlet {
 		        		TestServlet.class.getClassLoader().getResource("javax/servlet/http/HttpServlet.class"));
 		        
 		        
-		        Test
+		        Test passed
 		    }
 		
 
