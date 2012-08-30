@@ -1,5 +1,4 @@
-
-public class test {
+public class WheelOfFortune {
 	public static void main(String[] a) {
 		String w="Realtek Gbe & Ethernet PCI-E NIC Drivers";
 		String l=" &-gkabcdeqwrtlthnuiovs";
